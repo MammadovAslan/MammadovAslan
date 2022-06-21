@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aslan Mammadov
-- I’m currently learning JavaScript and my goal is to becom a Front-end Developer one day!
+- I’m currently learning JavaScript and my goal is to become a Front-end Developer one day!
 
 <!---
 MammadovAslan/MammadovAslan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
