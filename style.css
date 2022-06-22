@@ -1,1 +1,17 @@
+#calc{
+    background-color: rgb(135, 195, 235);
+    height : 150px;
+    width : 300px;
+    margin: 100px auto;
+    border:1px solid grey;
+    border-radius: 10px;
+    padding: 10px
+}
+
+#result{
+    border:1px solid grey;
+    border-radius:3px;
+    width:80%;
+    background-color: #fff
+}
 
