@@ -3,7 +3,7 @@
 https://www.codewars.com/users/MammadovAslan
 
 - 👋 Hi, I’m Aslan Mammadov
-- I’m currently learning JavaScript and my goal is to become a Front-end Developer one day!
+- I’m currently learning HTML, CSS and JavaScript and my goal is to become a Front-end Developer one day!
 
 
 <!---
