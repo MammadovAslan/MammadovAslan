@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aslan Mammadov</h1>
-![comdewars-badge]([http://url/to/img.png])
+
 
 <h3 align="center">A frontend developer from Azerbaijan</h3>
 
