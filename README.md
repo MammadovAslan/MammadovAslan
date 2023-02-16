@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **mammadovaslan21@gmail.com**
+- My portfolio https://mammadov-aslan.vercel.app/
 <p align="left">
 </p>
 
