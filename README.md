@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **mammadovaslan21@gmail.com**
-- My portfolio <a href="https://mammadov-aslan.vercel.app/" target="_blank" rel="noreferrer"> https://mammadov-aslan.vercel.app/ </a> 
+- My <a href="https://mammadov-aslan.vercel.app/" target="_blank" rel="noreferrer"> portfolio </a> 
 <p align="left">
 </p>
 
