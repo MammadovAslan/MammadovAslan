@@ -5,7 +5,8 @@
 ![codewars-badge](https://www.codewars.com/users/MammadovAslan/badges/large)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mammadovaslan&label=Profile%20views&color=0e75b6&style=flat" alt="mammadovaslan" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **TypeSctipt**
+- My portfolio: https://mammadov-aslan.vercel.app/
 
 - 📫 How to reach me **mammadovaslan21@gmail.com**
 <p align="left">
