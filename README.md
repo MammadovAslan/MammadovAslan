@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aslan Mammadov</h1>
 
-<h3 align="center">A Full-Stack Developer from Azerbaijan</h3>
+<h3 align="center">A Front-End Developer from Azerbaijan</h3>
 
 ![codewars-badge](https://www.codewars.com/users/MammadovAslan/badges/large)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mammadovaslan&label=Profile%20views&color=0e75b6&style=flat" alt="mammadovaslan" /> </p>
